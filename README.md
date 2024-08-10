@@ -13,7 +13,7 @@ The Auth Bridge is part of a larger system architecture that includes:
 ### 1. VRpanda-admin-panel (Main Website) 
 * Built with Vue.js 2 and PHP Laravel
 * Responsible for user authentication and providing user information to the Auth Bridge.
-### 2. Auth Bridge
+### 2. Auth Bridge (This repo)
 * Built with Node.js
 * Uses `jose` (v4.x) for JSON Web Token (JWT) management
 * Acts as an intermediary between VRpanda-admin-panel and paopao-ce.
