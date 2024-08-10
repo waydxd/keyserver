@@ -72,13 +72,13 @@ This README provides a overview of the system architecture and the Auth Bridge's
                   v
           +---------------+
           |  paopao-ce    |
-          |  (the Forum)  |
+          |  (vue 3)      |
           +---------------+
                   |
                   | (5) Verify JWT Token
                   v
           +---------------+
-          |  Auth Bridge  |
-          |  (Node.js)    |
+          |  paopao-ce    |
+          |  (go gin)     |
           +---------------+
 
