@@ -56,9 +56,9 @@ This README provides a overview of the system architecture and the Auth Bridge's
                   | (2) Request User Info
                   v
           +---------------+
-          |  VRpanda-    |
+          |  VRpanda-     |
           |  admin-panel  |
-          |  Backend (PHP) |
+          |  Backend (PHP)|
           +---------------+
                   |
                   | (3) User Info Response
@@ -72,7 +72,7 @@ This README provides a overview of the system architecture and the Auth Bridge's
                   v
           +---------------+
           |  paopao-ce    |
-          |  (Forum Website)|
+          |  (the Forum)  |
           +---------------+
                   |
                   | (5) Verify JWT Token
