@@ -13,6 +13,7 @@ app
   .use(bodyParser.json());
 
 // JWT signing key
+// Pls change it with your own key!
 const jwk = {
   "crv": "P-256",
   "d": "FhMdTeoUY6laOOC8VlkdIoJfjIhukjoFmltzXocjf1Q",
