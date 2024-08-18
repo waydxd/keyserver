@@ -82,3 +82,5 @@ This README provides a overview of the system architecture and the Auth Bridge's
           |  (go gin)     |
           +---------------+
 
+
+TODO: Integrate this into paopao-ce
