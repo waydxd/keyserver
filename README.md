@@ -1,4 +1,4 @@
-
+# This repo is archived since the authentication bridge is integrated into paopao-ce's backend
 # Simple Auth Bridge 
 ## Overview
 
